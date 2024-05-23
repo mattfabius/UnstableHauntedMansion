@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tubs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HardPlatform
+  - SoftPlatform
+  - GhostInteractable
+  - HardPlatform_Impassable
+  - Ghost
+  - DarkZone
+  - FlashlightRange
+  - Player
+  - LenaInteractable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3122536063
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1377284823
+    locked: 0
+  - name: Midground
+    uniqueID: 2185445889
+    locked: 0
+  - name: Ghost
+    uniqueID: 3445983493
+    locked: 0
+  - name: Foreground
+    uniqueID: 2264126579
+    locked: 0
